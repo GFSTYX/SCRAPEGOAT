@@ -9,5 +9,5 @@ screenshots
 logs
 
 *.db
-*.csv
+# *.csv
 *.json
