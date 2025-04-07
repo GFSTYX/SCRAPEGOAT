@@ -1,0 +1,13 @@
+.cache
+.env
+.venv
+
+__pycache__
+.ruff_cache
+
+screenshots
+logs
+
+*.db
+*.csv
+*.json
